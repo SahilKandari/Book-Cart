@@ -1,0 +1,10 @@
+.cart-section{
+    justify-content: center;
+    color: white;
+    
+}
+.cart-box{
+    background-color: #212529;
+    border-radius: 10px;
+    padding: 0;
+}

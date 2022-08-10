@@ -1,0 +1,20 @@
+.headerButton button{
+    color: white;
+    display: flex;
+    align-items: center;
+    border: 2px solid rgb(106, 240, 200);
+    width: 150px;
+    justify-content: space-between;
+    
+}
+.headerButton span{
+margin-left: 15px;
+border: 2px solid rgb(106, 240, 200);
+background-color:rgb(106, 240, 200) ;
+color: black;
+min-width: 30px;
+border-radius: 10px;
+}
+.headerButton p{
+    margin: 0px !important;
+}

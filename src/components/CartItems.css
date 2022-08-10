@@ -1,0 +1,22 @@
+.cart-priceList {
+  background-color: rgb(75, 75, 75);
+  margin: 10px;
+}
+.cart-priceList p {
+  margin: 8px 0px 0px 0;
+  padding: 0;
+  color: rgb(223, 223, 223);
+  font-size: 13px;
+}
+.cart-priceList h4 {
+  padding: 0 5px 0 0;
+}
+.cart-box h2 {
+  font-size: 25px;
+}
+.cart-button {
+  justify-content: space-evenly;
+}
+.cart-button button {
+  color: white;
+}

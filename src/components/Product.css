@@ -1,0 +1,10 @@
+.product-header {
+  justify-content: center;
+  color: white;
+}
+.product-header h2 {
+  font-size: 32px;
+  margin-left: 20px;
+}
+
+
