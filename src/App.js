@@ -31,7 +31,7 @@ function App() {
         console.log(error.message);
       });
       
-  }, [cart]);
+  }, [cart, initialState]);
   return (
     <div className="App ">
       <div className="fluid-container">
